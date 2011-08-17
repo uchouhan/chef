@@ -1,0 +1,5 @@
+maintainer        'TheRiffer Inc.'
+maintainer_email  'theriffer@me.com'
+license           'Apache 2.0'
+description       'Installs Riak.'
+version           '0.1.0'
