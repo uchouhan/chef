@@ -1,0 +1,5 @@
+maintainer 'TheRiffer Inc.'
+maintainer_email 'theriffer@me.com'
+license 'Dotfiles'
+description 'Copies configuration and dotfiles to the system.'
+version '0.1.0'

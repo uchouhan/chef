@@ -1,0 +1,29 @@
+{
+  "name": "dotfiles",
+  "description": "Copies configuration and dotfiles to the system.",
+  "long_description": "",
+  "maintainer": "TheRiffer Inc.",
+  "maintainer_email": "theriffer@me.com",
+  "license": "Dotfiles",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0"
+}
