@@ -1,4 +1,4 @@
-template "#{ENV['HOME']}/.bash_profile' do
+template "#{ENV['HOME']}/.bash_profile" do
   action :create
   source 'bash_profile.erb'
 end
